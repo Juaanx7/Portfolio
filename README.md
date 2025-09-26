@@ -12,7 +12,7 @@ Sitio web personal para mostrar mis proyectos, experiencia y contacto como desar
 En desarrollo activo / Versión inicial funcional
 
 ## Deploy
-[Enlace a la web si ya lo publicaste]
+
 
 ## Autor
 Juan Acosta Quiñones - [GitHub](https://github.com/Juaanx7)
